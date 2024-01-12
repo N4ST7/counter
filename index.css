@@ -1,0 +1,48 @@
+body {
+    background-image: url("https://occ-0-2794-2219.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABfr5Ra64h5Aimu8vZrmW7iTIAEc91QmUBqoOZvsXjoc5yfhE89DFQKVqzlIqY9Fpy29V1GNUqC-brqQ9ehexrQNebstW68m7T0zZ.jpg?r=159");
+    background-size: cover;
+    font-family: Cantarell, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: bold;
+    text-align: center;
+    height: 100vh;
+}
+
+.border {
+    max-width: 80%;
+    margin: auto;
+}
+
+h1 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+h2 {
+    font-size: 50px;
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+
+button {
+    border: 1px solid white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    font-weight: bold;
+    width: 200px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+    text-shadow: 0px 0px 3px;
+}
+
+#increment-btn {
+    background: darkred;
+}
+
+#save-btn {
+    background: darkorange;
+}
+
+#save-el {
+    font-weight: bold;
+}
